@@ -18,7 +18,7 @@ A simple REST API built in GO using the Gin Framework. Including Authentication 
 - [x] Create Login Route
 - [x] Generate JWT
 - [x] Add Token Verification & Route Protection
-- [ ] Retrieve & Store User and Event ID
+- [x] Retrieve & Store User and Event ID
 - [ ] Add an Authentication Middleware
 - [ ] Add Authorization to Restrict Users from Editing & Deleting
 - [ ] Register Users
