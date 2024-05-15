@@ -21,5 +21,5 @@ A simple REST API built in GO using the Gin Framework. Including Authentication 
 - [x] Retrieve & Store User and Event ID
 - [x] Add an Authentication Middleware
 - [x] Add Authorization to Restrict Users from Editing & Deleting
-- [ ] Register Users
+- [x] Register Users
 - [ ] Cancel Registrations
